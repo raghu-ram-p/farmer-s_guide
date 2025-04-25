@@ -1,0 +1,54 @@
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f5f5dc;
+    border: 2px solid #8b4513; 
+    border-radius: 10px;
+}
+
+.heading {
+    font-size: 2rem;
+    margin-bottom: 20px;
+    text-align: center;
+    color: #6b8e23;
+    font-family: 'Georgia', serif;
+}
+
+.search-input {
+    padding: 10px;
+    width: 100%;
+    max-width: 400px;
+    margin-bottom: 20px;
+    border: 1px solid #8b4513;
+    border-radius: 5px;
+    background-color: #fffaf0;
+    color: #333;
+}
+
+.guide-json {
+    border: 1px solid #8b4513;
+    border-radius: 8px;
+    padding: 15px;
+    margin-bottom: 15px;
+    background-color: #fff8dc;
+    color: #333;
+}
+
+.header {
+    font-size: 1.25rem;
+    margin-bottom: 10px;
+    color: #6b8e23;
+    font-weight: bold;
+}
+
+.paragraph {
+    font-size: 1rem;
+    color: #4b5320;
+    line-height: 1.5;
+}
+
+.no-guides {
+    font-style: italic;
+    color: #8b4513;
+}

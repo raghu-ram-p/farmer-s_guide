@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "Wheat Cultivation Guide",
+    "content": "Plant wheat in well-drained loamy soil with a pH between 6.0 and 7.5. Optimal sowing time is between late October and early December. Use certified seeds and maintain spacing of 20-22 cm between rows."
+  },
+  {
+    "id": 2,
+    "title": "Rice Growing Tips",
+    "content": "Rice requires a warm climate and plenty of water. Sow in nurseries and transplant after 20-30 days. Maintain a water level of 5-10 cm during the growing period and drain water before harvesting."
+  },
+  {
+    "id": 3,
+    "title": "Maize Production Guide",
+    "content": "Maize grows best in well-aerated, fertile soil. Ensure proper seed depth (2.5-5 cm) and maintain adequate irrigation, especially during flowering and grain filling stages."
+  },
+  {
+    "id": 4,
+    "title": "Tomato Farming Basics",
+    "content": "Grow tomatoes in slightly acidic soil (pH 6.0-6.8). Provide support for the plants, water regularly, and watch out for pests like whiteflies and aphids. Use mulch to retain moisture and suppress weeds."
+  },
+  {
+    "id": 5,
+    "title": "Potato Growing Techniques",
+    "content": "Use certified disease-free seed potatoes. Plant in well-prepared, loose soil with good drainage. Mound soil around the base of the plant as it grows to protect tubers from sunlight."
+  },
+  {
+    "id": 6,
+    "title": "Sugarcane Farming",
+    "content": "Sugarcane thrives in tropical climates with rich, moist soil. Use healthy cane cuttings with 2-3 buds, spaced 30 cm apart. Regular irrigation and fertilization are essential for high yields."
+  }
+]

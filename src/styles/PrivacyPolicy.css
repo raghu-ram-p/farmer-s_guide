@@ -1,0 +1,70 @@
+.privacy-container {
+    max-width: 800px;
+    margin: 40px auto;
+    background-color: #f1f8e9;
+    padding: 40px;
+    border-radius: 16px;
+    font-family: 'Segoe UI', sans-serif;
+    color: #3e2723;
+    box-shadow: 0 6px 18px rgba(0, 0, 0, 0.1);
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    background-size: 100px;
+  }
+  
+  .privacy-title {
+    text-align: center;
+    color: #2e7d32;
+    font-size: 2rem;
+    margin-bottom: 10px;
+    position: relative;
+  }
+  
+  .privacy-title::after {
+    content: "🌿";
+    position: absolute;
+    right: -30px;
+    top: 0;
+    font-size: 1.5rem;
+  }
+  
+  .privacy-date {
+    text-align: center;
+    font-size: 0.95rem;
+    color: #6d4c41;
+    margin-bottom: 30px;
+  }
+  
+  section {
+    margin-bottom: 30px;
+    padding: 15px;
+    border-left: 4px solid #aed581;
+    background-color: #ffffff;
+    border-radius: 8px;
+  }
+  
+  section h2 {
+    color: #558b2f;
+    margin-bottom: 8px;
+    font-size: 1.2rem;
+  }
+  
+  ul {
+    padding-left: 20px;
+    margin-top: 10px;
+  }
+  
+  ul li {
+    margin-bottom: 6px;
+    list-style: none;
+    position: relative;
+    padding-left: 22px;
+  }
+  
+  ul li::before {
+    content: '🌾';
+    position: absolute;
+    left: 0;
+    top: 0;
+  }
+  

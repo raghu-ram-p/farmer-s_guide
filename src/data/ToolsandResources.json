@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "title": "Soil Testing Kit",
+    "type": "Tool",
+    "content": "A portable kit used to measure soil pH, nitrogen, phosphorus, and potassium levels on-site to determine crop suitability and fertilizer needs."
+  },
+  {
+    "id": 2,
+    "title": "AgriApp",
+    "type": "Mobile App",
+    "content": "A smartphone app offering crop advisory, weather forecasts, market prices, and pest control tips tailored to your region."
+  },
+  {
+    "id": 3,
+    "title": "Drip Irrigation System",
+    "type": "Equipment",
+    "content": "A water-saving irrigation system that delivers water directly to the root zone of crops, reducing waste and increasing efficiency."
+  },
+  {
+    "id": 4,
+    "title": "Government Subsidy Portal",
+    "type": "Resource",
+    "content": "An official portal where farmers can apply for subsidies, equipment loans, and insurance schemes under national and state agriculture policies."
+  },
+  {
+    "id": 5,
+    "title": "Kisan Call Center (KCC)",
+    "type": "Helpline",
+    "content": "A toll-free number (1800-180-1551) that connects farmers to agricultural experts for queries on crops, pests, and farming techniques."
+  },
+  {
+    "id": 6,
+    "title": "Tractor with Attachments",
+    "type": "Equipment",
+    "content": "Multi-purpose farm vehicle used for plowing, sowing, and harvesting with various attachments like tillers and seeders."
+  },
+  {
+    "id": 7,
+    "title": "eNAM (National Agriculture Market)",
+    "type": "Online Marketplace",
+    "content": "A digital trading platform for farmers to sell their produce directly to buyers across India, ensuring better pricing and transparency."
+  }
+]

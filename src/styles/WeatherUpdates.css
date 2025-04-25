@@ -1,0 +1,48 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+.weather-updates-container {
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.weather-updates-title {
+    text-align: center;
+    color: #6b8e23;
+    margin-bottom: 20px;
+    font-size: 1.8em;
+}
+
+.weather-updates-card {
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.weather-updates-card h2 {
+    color: #6b8e23;
+    margin-bottom: 10px;
+}
+
+.weather-updates-card p {
+    margin: 5px 0;
+    font-size: 1em;
+}
+
+.weather-updates-last-updated {
+    margin-top: 15px;
+    font-size: 0.9em;
+    color: #555;
+    text-align: right;
+}
